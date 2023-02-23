@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon</title>
+    <defs>
+        <radialGradient cx="50%" cy="100%" fx="50%" fy="100%" r="119.849396%" id="radialGradient-1">
+            <stop stop-color="#1C2227" offset="0%"></stop>
+            <stop stop-color="#1E2227" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Background" fill="url(#radialGradient-1)" opacity="0.9" x="0" y="0" width="200" height="200" rx="60">
+        </rect>
+        <g id="Glyph" transform="translate(36.328125, 30.859375)">
+            <polygon id="Head-Base" fill="#FFFFFF" style="mix-blend-mode: overlay;"
+                points="0 0 63.671875 47.65625 127.34375 0 127.34375 95.3125 63.671875 142.96875 0 95.3125"></polygon>
+            <polygon id="Jowl" fill-opacity="0.700000048" fill="#FFFFFF" style="mix-blend-mode: overlay;"
+                points="0 95.3125 63.671875 47.65625 127.34375 95.3125 63.671875 142.96875"></polygon>
+            <polygon id="Ears/Nose" fill="#FFFFFF" style="mix-blend-mode: soft-light;"
+                points="0 0 63.671875 142.96875 127.34375 0 63.671875 47.65625"></polygon>
+            <path
+                d="M0,0 L63.671875,142.96875 L0,23.2421875 L0,0 Z M127.34375,0 L127.34375,23.2421875 L63.671875,142.96875 L127.34375,0 Z"
+                id="Shadows" fill-opacity="0.25" fill="#201E1E" style="mix-blend-mode: overlay;"></path>
+        </g>
+    </g>
+</svg>
