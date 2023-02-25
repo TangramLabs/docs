@@ -55,7 +55,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/tangram-social-card.jpg',
       navbar: {
-        title: 'DOCS',
+        title: 'Tangram Docs',
         logo: {
           alt: 'Tangram - The blockchain built for web3',
           src: 'img/logo.svg',
